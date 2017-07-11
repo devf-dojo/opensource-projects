@@ -26,6 +26,7 @@
   - [UrlShortener](https://github.com/p53ud0k0d3/UrlShortener/labels/up-for-grabs)
   - [UpForGrabs](https://github.com/up-for-grabs/up-for-grabs.net/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) (site that powers up-for-grabs.net)
   - [Pinax](http://pinaxproject.com/pinax/how_to_contribute/) (Django project)
+  - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/blob/staging/CONTRIBUTING.md)
 - Lists of more ideas
   - https://github.com/showcases/great-for-new-contributors
   - https://openhatch.org/search/
