@@ -12,6 +12,11 @@
   - [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#your-first-code-contribution)
 - Code/productivity tools
   - [JS Hint](https://github.com/jshint/jshint/blob/master/CONTRIBUTING.md)
+- Android
+  - [React Native](https://github.com/facebook/react-native/labels/Good%20First%20Task)
+  - [Wikimedia Commons](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly)
+  - [Reader for Selfoss](https://github.com/aminecmi/ReaderforSelfoss/labels/Up%20For%20Grabs) (RSS client)
+  - [Firefox for Android](https://wiki.mozilla.org/Mobile/Get_Involved)
 - Other
   - [Zulip](https://github.com/zulip/zulip#how-to-get-involved-with-contributing-to-zulip) (chat server/client like Slack, which we might use in Dev.f)
   - [Open edX](https://github.com/edx/edx-platform/blob/master/CONTRIBUTING.rst) (MOOC platform)
