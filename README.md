@@ -17,6 +17,11 @@
   - [Wikimedia Commons](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly)
   - [Reader for Selfoss](https://github.com/aminecmi/ReaderforSelfoss/labels/Up%20For%20Grabs) (RSS client)
   - [Firefox for Android](https://wiki.mozilla.org/Mobile/Get_Involved)
+- freeCodeCamp
+  - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/blob/staging/CONTRIBUTING.md)
+  - [Meeting for Good](https://github.com/freeCodeCamp/meeting-for-good/issues)
+  - [Mail for Good](https://github.com/freeCodeCamp/mail-for-good)
+  - [Arcade Mode](https://github.com/freeCodeCamp/arcade-mode) (App for practicing interview questions)
 - Other
   - [Zulip](https://github.com/zulip/zulip#how-to-get-involved-with-contributing-to-zulip) (chat server/client like Slack, which we might use in Dev.f)
   - [Open edX](https://github.com/edx/edx-platform/blob/master/CONTRIBUTING.rst) (MOOC platform)
@@ -26,7 +31,7 @@
   - [UrlShortener](https://github.com/p53ud0k0d3/UrlShortener/labels/up-for-grabs)
   - [UpForGrabs](https://github.com/up-for-grabs/up-for-grabs.net/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) (site that powers up-for-grabs.net)
   - [Pinax](http://pinaxproject.com/pinax/how_to_contribute/) (Django project)
-  - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/blob/staging/CONTRIBUTING.md)
+
 - Lists of more ideas
   - https://github.com/showcases/great-for-new-contributors
   - https://openhatch.org/search/
